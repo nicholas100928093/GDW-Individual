@@ -1,0 +1,22 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Level/Map.umap",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Levels/Map.umap",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Blueprints/Character_BP.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Blueprints/GameMode.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Blueprints/FPGameMode.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Blueprints/FPCharacter_BP.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Input/FP_IMC.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Input/Move_IA.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Input/Look_IA.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Input/Jump_IA.uasset",
+				"C:/Users/neche/OneDrive/Documents/GitHub/GDW Individual/GDW_IP/Content/Input/Sprint_IA.uasset"
+			]
+		}
+	]
+}
